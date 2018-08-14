@@ -1,2 +1,2 @@
 # SoundFreqPlotter
-Realtime microphone frequency plotter with python - bokeh
+Realtime sound frequency plotter with Python - Bokeh.
